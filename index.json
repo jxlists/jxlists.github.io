@@ -1,6 +1,6 @@
 {
   "name": "jxswap",
-  "logoURI": "https://panxgu.github.io/assets/asset_JX.svg",
+  "logoURI": "https://jxlists.github.io/assets/asset_JX.svg",
   "keywords": [
     "jxswap",
     "defi"
@@ -13,7 +13,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 18,
-      "logoURI": "https://panxgu.github.io/assets/asset_USDT.svg"
+      "logoURI": "https://jxlists.github.io/assets/asset_USDT.svg"
     },
     {
       "chainId": 56,
@@ -21,7 +21,7 @@
       "name": "Compound USD ",
       "symbol": "USDC",
       "decimals": 18,
-      "logoURI": "https://panxgu.github.io/assets/asset_USDC.svg"
+      "logoURI": "https://jxlists.github.io/assets/asset_USDC.svg"
     },
     {
       "chainId": 56,
@@ -29,7 +29,7 @@
       "name": "JTS",
       "symbol": "JTS",
       "decimals": 18,
-      "logoURI": "https://panxgu.github.io/assets/asset_JTS.svg"
+      "logoURI": "https://jxlists.github.io/assets/asset_JTS.svg"
     },
     {
       "chainId": 56,
@@ -37,7 +37,7 @@
       "name": "XQJ",
       "symbol": "XQJ",
       "decimals": 18,
-      "logoURI": "https://panxgu.github.io/assets/asset_XQJ.svg"
+      "logoURI": "https://jxlists.github.io/assets/asset_XQJ.svg"
     },
     {
       "chainId": 56,
@@ -45,7 +45,7 @@
       "name": "TOM",
       "symbol": "TOM",
       "decimals": 18,
-      "logoURI": "https://panxgu.github.io/assets/asset_TOM.svg"
+      "logoURI": "https://jxlists.github.io/assets/asset_TOM.svg"
     },
     {
       "chainId": 56,
@@ -53,12 +53,12 @@
       "name": "TON",
       "symbol": "TON",
       "decimals": 18,
-      "logoURI": "https://panxgu.github.io/assets/asset_TON.svg"
+      "logoURI": "https://jxlists.github.io/assets/asset_TON.svg"
     }
   ],
   "version": { 
     "major": 0,
     "minor": 0,
-    "patch": 2
+    "patch": 3
   }
 }
