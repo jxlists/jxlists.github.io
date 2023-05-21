@@ -25,6 +25,14 @@
     },
     {
       "chainId": 56,
+      "address": "0xf4f3e45507c85e36ee23e421feb7caca4b7f0f8b",
+      "name": "JTS",
+      "symbol": "JTS",
+      "decimals": 18,
+      "logoURI": "https://panxgu.github.io/assets/asset_JTS.svg"
+    },
+    {
+      "chainId": 56,
       "address": "0x89eb16377f3d10d39b23df7c02ae94ac3a81d389",
       "name": "XQJ",
       "symbol": "XQJ",
@@ -51,6 +59,6 @@
   "version": { 
     "major": 0,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   }
 }
