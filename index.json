@@ -1,0 +1,64 @@
+{
+  "name": "jxswap",
+  "logoURI": "https://panxgu.github.io/assets/asset_JX.svg",
+  "keywords": [
+    "jxswap",
+    "defi"
+  ],
+  "timestamp": "2021-05-27T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x55d398326f99059fF775485246999027B3197955",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "https://panxgu.github.io/assets/asset_USDT.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+      "name": "Compound USD ",
+      "symbol": "USDC",
+      "decimals": 18,
+      "logoURI": "https://panxgu.github.io/assets/asset_USDC.svg"
+    },
+    {
+      "chainId": 5,
+      "address": "0x6743665257c429605aa344ed04dff7a183a50296",
+      "name": "QJ",
+      "symbol": "QJ",
+      "decimals": 18,
+      "logoURI": "https://panxgu.github.io/assets/asset_QJ.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0x89eb16377f3d10d39b23df7c02ae94ac3a81d389",
+      "name": "XQJ",
+      "symbol": "XQJ",
+      "decimals": 18,
+      "logoURI": "https://panxgu.github.io/assets/asset_XQJ.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0x0f5802eb6b36b978b9b57165ae005ce1bd48e9a2",
+      "name": "TOM",
+      "symbol": "TOM",
+      "decimals": 18,
+      "logoURI": "https://panxgu.github.io/assets/asset_TOM.svg"
+    },
+    {
+      "chainId": 56,
+      "address": "0x45bc15c27f6f4c63d149ab0dc716ffe281f80509",
+      "name": "TON",
+      "symbol": "TON",
+      "decimals": 18,
+      "logoURI": "https://panxgu.github.io/assets/asset_TON.svg"
+    }
+  ],
+  "version": { 
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  }
+}
